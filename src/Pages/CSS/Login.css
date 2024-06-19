@@ -1,0 +1,47 @@
+.Loginsing{
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-content: center;
+    background-color: lightblue;
+}
+
+.loginsing-container{
+
+    height:60vh;
+    width:22vw;
+    border-radius: 22px;
+    border:solid 2px purple;
+    margin-left: 40vw;
+    background-color: white;
+    
+    
+}
+.loginsing-container h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 19px;
+}
+.loginsing-fields input{
+    width: 13em;
+    height: 34px;
+    margin: 7px 23px;
+    border-radius: 13px;
+    padding-left: 13px;
+    font-size: 20px;
+}
+button{
+    margin-left: 74px;
+    margin-top: 14px;
+    width:154px;
+    height:34px;
+    font-size: 18px;
+    background-color: purple;
+    color:white;
+    font-weight: 500;
+    border-radius: 22px;
+}
+.loginsing-login{
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+}

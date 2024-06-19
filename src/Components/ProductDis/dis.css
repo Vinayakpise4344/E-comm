@@ -1,0 +1,36 @@
+.Productdis{
+    display:flex;
+    gap:50px;
+    margin-bottom: 50px;
+}
+.productdis-left{
+    display: flex;
+    gap:17px;
+
+}
+.productdis-img-list{
+    display: flex;
+    flex-direction: column;
+    gap:16px;
+
+}
+.productdis-img-list img{
+    height:163px;
+}
+.productdis-main-img{
+    width:586px;
+    height:700px;
+}
+.productdis-right{
+    display: flex;
+}
+.productdis-right-size1{
+    display: flex;
+    
+    gap:50px;
+}
+.productdis-right-size1 div{
+    border: 3px solid rgb(58, 55, 55);
+    padding: 6px ;
+    background-color: rgb(243, 235, 235);
+}

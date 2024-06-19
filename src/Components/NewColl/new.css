@@ -1,0 +1,21 @@
+.collect{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr; 
+   margin-top: 0px;
+   gap:32px;
+   /* border:solid 2px red; */
+}
+
+
+.new-collection h1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.new-collection hr{
+    width:20%;
+    border:solid 2px purple;
+    border-radius:32px ;
+}
+
